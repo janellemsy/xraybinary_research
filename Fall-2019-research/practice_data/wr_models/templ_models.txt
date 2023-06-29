@@ -1,0 +1,8 @@
+# temp radius modelflag filename
+112.2 7.9  1 14-12_edited.txt
+89.1  4.0  1 12-15_edited.txt 
+79.4  50.0 1 11-04_edited.txt
+63.1  5.0  1 09-14_edited.txt
+63.1  32.0 1 09-06_edited.txt 
+50.1  2.0  1 07-18_edited.txt 
+
